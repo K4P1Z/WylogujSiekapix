@@ -1,5 +1,3 @@
-# GrubyWylogujSie
-GrubyWylogujSie
+Kapix sie wylogu
 
-
-KAPIX SIGMA NA SIŁOWNIE ID!Z!
+# WYLOGUJ SIE
